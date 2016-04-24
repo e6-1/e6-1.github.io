@@ -1,1 +1,1 @@
---- layout: page title: "Resume" permalink: /resume/ tagline : "" ---
+--- layout: archive title: "Resume" permalink: /resume/ tagline : "" ---
