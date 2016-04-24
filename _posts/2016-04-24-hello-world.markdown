@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hello world"
-date: 2016-04-24 14:00:00 -0800
-categories: "personal"
+title:  "Hello world!"
+date:   2016-04-24 14:49:31 +0800
+categories: personal
 ---
-Hello world!
+Hey guys.
