@@ -1,125 +1,15 @@
 ---
 layout: page
-title : About
+title: About
 permalink: /about/
+published: true
 ---
 
-<h2>Gravity</h2>
-<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
+<h2>Beyond the developer</h2>
+<p>My hats include tattered Rose-Hulman and faded Chicago sports baseball caps, a lightly scratched biking helmet, and broken Xbox headsets.</p>
 <br>
-<center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
+<center><p ><strong><span class="manual">First, why am I writing</span> Blogs?</strong></p></center>
 <br>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Posting</strong>
-  </div>
-<p>  <div class="manual-content">
-
-      - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br>
-      - Name the file according to the format YY-MM-DD-[short name for your post].<br>  <code>2016-03-30-i-love-design.markdown</code><br>
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.<br>
-      <div class="example">
-        <span class='manual'>FORMAT</span><BR>
-        <code>---<br>
-        layout: post | default | page<br>
-        title:  String<span class="hint"> Post Title</span><br>
-        date:   Time Stamp<br>
-        categories: String | Array of Strings<span class="hint"> Category / Categories </span><br>
-        ---
-      </code><br>
-      </div>
-      <div class="example">
-
-        <code>---<br>
-        layout: post<br>
-        title:  "The One with the Blackout"<br>
-        date:   2016-03-30 19:45:31 +0530<br>
-        categories: ["life", "friends"]<br>
-        ---
-      </code>
-      </div>
-
-
-  </div>
-</p>
-</div>
-<br>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Create Pages</strong>
-  </div>
-<p>  <div class="manual-content">
-
-      - Create a .md file in the root directory.<br>
-      - Name the file with the desired page link name.<br>  <code>about.md</code><br><code>design.md</code><br>
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.
-      <div class="example">
-        <span class='manual'>FORMAT</span><BR>
-        <code>---<br>
-
-          layout: page<br>
-          title: String <span class="hint">Title of the webpage</span><br>
-          permalink: / String / <span class="hint">Permalink for the webpage</span><br>
-          tagline: String <span class="hint">Optional Gravity Feature : Tagline for the page</span><br>
-          ---
-      </code><br>
-      </div>
-      <div class="example">
-
-        <code>---<br>
-        layout: page<br>
-        title:  "Science"<br>
-        permalink:   /science/ <br>
-        tagline : "Humanity is overrated." <br>
-        ---
-      </code>
-      </div>
-
-
-  </div>
-</p>
-</div>
-<br>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Create Archives/ Category Pages</strong><br>
-</div><br>
-<div class="archiveIntro">
-  <p>
-    Introducing <strong>Archive Pages</strong>.<br></p>
-  <span class="archive-intro">  You can display a list of all the post corresponding to a particular category on a standalone Page using the <code>'archive'</code> layout.
-</span>
-</div>
-<br>
-
-<p>  <div class="manual-content">
-
-      - Create a .md file in the root directory.<br>
-      - Name the file. Preferred name will be the name of the category<br>  <code>life.md</code><br>
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.
-      <div class="example">
-        <span class='manual'>FORMAT</span><BR>
-        <code>---<br>
-
-          layout: archive<span class="hint"> Archive Page Layout</span> <br>
-          title: String <span class="hint">Title of the webpage</span><br>
-          permalink: / String / <span class="hint">Permalink for the webpage</span><br>
-          tagline: String <span class="hint"> Tagline for the page</span><br>
-          category : String <span class="hint"> Name of the category of which the page will show posts.</span><br>
-          ---
-      </code><br>
-      </div>
-      <div class="example">
-
-        <code>---<br>
-        layout: archive<br>
-        title:  "Design"<br>
-        permalink : "Design"<br>
-        category: "design"<br>
-        tagline: "It's all about perception."<br>
-        ---
-      </code>
-    </div><br>
-  </div>
-</p>
-</div>
+<div><p>I started out as an algorithms/back-end guy, and I've since come to realize that visualization and presentation are just as important as the raw results. So this is a venture in learning by doing, and it brings back the excitement I had when I first started programming. </p><p>But this isn't just an exercise. My experiences are cluttered across photos on my phone, notes on my laptop, old Facebook posts, and memories that will eventually fade. That's just not scalable, so my goal is to centralize my thoughts and experiences here.</p></div>
+<center><p ><strong><span class="manual">Who's writing these posts?</span></strong></p></center>
+<div><p>A lot of people list a long string of titles to describe themselves, but I'll talk about some experiences and leave labels up to you. But let's leave the professional details out, those are listed on my resume <a href="http://registry.jsonresume.org/peterseo">here</a>, along with my contact information.</p><p>Two years ago (2014 as of this post), I was SCUBA diving in Bonaire through my high school's summer marine biology program. Making two or three dives a day for one week, we learned about the local ecosystem and logged species' populations (more info <a href="http://www.reef.org/about">here</a>). Many people don't know about the vast tolls that reefs and the fish populations have suffered recently, and I'm passionate about reversing this trend.</p><p>I've been incredibly lucky and granted opportunities over the past year to travel to Hawaii, London, and, most recently, Silicon Valley. While they've all been for business, I've made sure to go out and see the sights, eat the food, and meet the people!</p><p>Born and raised in the Chicagoland area, I'm a huge fan of the Bears, Blackhawks, and Cubs. I never got into basketball (even though I was a backup guard on my 7th grade B-team), but am always active and played several sports. I'm hoping Ryan Pace continues a tremendous job righting the ship, and maybe more than one team can be successful at a time.</p><p>I grew up on the older original consoles, at a fantastic time for online gaming. Some of the most fun I've had has been during late nights grinding for completion on Halo's campaign on legendary with my friends. I've seen the good, the bad, and the ugly that gaming can bring out, and it's shaped my approach within social software development.</p><p>Within these interests, I weave data and computing to make a different lens to see through. The incredible computing community enables so many to do the same, and I hope that these posts start to give back to those that have given so much.</p></div>
