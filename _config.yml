@@ -8,7 +8,7 @@
 # Site settings
 title: Yet Another Developer Blog
 email: peterseo@rose-hulman.edu
-description: Written by Ethan Petersen
+description: by Ethan Petersen
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://e6-1.github.io" # the base hostname & protocol for your site
 twitter_username: CSSEMA
