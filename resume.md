@@ -124,7 +124,7 @@ header p {
   margin-bottom:1em;
   
   background-color:white;
-  width:110%;
+  width:100%;
   
   padding:0.5em 0 0.5em 0;
   
