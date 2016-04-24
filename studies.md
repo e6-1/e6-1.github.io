@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Event Studies
+title: Studies
 permalink: /studies/
 category: "studies"
 tagline: "Applying the old statistics toolbox to interesting events."
