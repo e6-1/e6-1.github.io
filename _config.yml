@@ -8,7 +8,7 @@
 # Site settings
 title: Yet Another Developer Blog
 email: peterseo@rose-hulman.edu
-description: The Liberal Jekyll Theme
+description: But with off-the-beaten-path topics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://e6-1.github.io" # the base hostname & protocol for your site
 twitter_username: CSSEMA
