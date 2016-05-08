@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Neural Codes"
+title:  "Receptive Fields"
 date:   2016-04-24 14:49:31 +0800
 categories: portfolio
 ---
@@ -13,7 +13,6 @@ One of the greatest research pursuits is the understanding of how our brains wor
 
 ## How does the brain structure receptive fields?
 --------------------------------------------------------------------------
-Dr. Nora Youngs, an incredibly talented mathematician currently with Harvey Mudd as a postdoctoral fellow, has tackled a related question:
 
-## What structural properties can be extracted from neural activity?
---------------------------------------------------------------------
+In my portfolio page, I've written a post on some incredible progress that Dr. Nora Youngs has made towards answering this question and some contributions that
+myself and others have made.
