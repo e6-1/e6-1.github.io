@@ -2,7 +2,7 @@
 layout: post
 title:  "Receptive Fields"
 date:   2016-04-24 14:49:31 +0800
-categories: portfolio
+categories: personal
 ---
 One of the greatest research pursuits is the understanding of how our brains work. Towards this goal, a landmark discovery by Dr. John O'Keefe
  revealed that information flowing into the brain is not processed independently, but understood by relationships between the stimuli. He observed
