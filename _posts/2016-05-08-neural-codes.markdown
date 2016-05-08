@@ -12,4 +12,8 @@ One of the greatest research pursuits is the understanding of how our brains wor
  and physical characteristics of a maze and an example receptive field could be a specific corner. But these results beg the question:
 
 ## How does the brain structure receptive fields?
--------------------------------------------------
+--------------------------------------------------------------------------
+Dr. Nora Youngs, an incredibly talented mathematician currently with Harvey Mudd as a postdoctoral fellow, has tackled a related question:
+
+## What structural properties can be extracted from neural activity?
+--------------------------------------------------------------------
