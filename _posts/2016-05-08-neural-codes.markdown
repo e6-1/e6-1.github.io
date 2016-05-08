@@ -12,5 +12,5 @@ One of the greatest research pursuits is the understanding of how our brains wor
  and physical characteristics of a maze and an example receptive field could be a specific corner. But these results beg the question:
 
 <center>
-### How does the brain structure receptive fields?
+How does the brain structure receptive fields?
 </center>
