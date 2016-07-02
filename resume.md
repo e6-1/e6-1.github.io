@@ -746,7 +746,7 @@ div.content-text.skills-listing > ul > li:first-child {
 			            	</span>
 
 
-												Python, Cython, Java, Hive, Pig, Sqoop, Oozie
+												Python, Cython, Swift, Objective-C, Java, Hive, Pig, Sqoop, Oozie
 			            	</p>
 			            	<p>
 			            	<span class="name">
