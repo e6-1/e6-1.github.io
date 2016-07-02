@@ -568,9 +568,8 @@ div.content-text.skills-listing > ul > li:first-child {
 
 											<p>Within Tesla Motors lives Tesla Energy, a revolutionary venture in energy innovation.</p>
 
-												<p class="highlight">Built web tools for sales engineers to simulate stationary storage performance and provide insight to market fits</p>
-												<p class="highlight">Translated Matlab routines into Python/Cython scripts to forecast energy demand and accordingly optimize storage charge/discharge</p>
-
+												<p class="highlight">Wrote backend applications for sales engineers to simulate stationary storage performance and provide insight to market fits</p>
+												<p class="highlight">Architected and wrote server-side Python applications to intelligently optimize battery (dis)charge according to energy bill structure</p>
 									
 			          </div>
 			        </div>
