@@ -1,18 +1,17 @@
 ---
 layout: post
-title:  "Receptive Fields"
+title:  "Neural Codes"
 date:   2016-04-24 14:49:31 +0800
-categories: personal
+categories: portfolio
 ---
-One of the greatest research pursuits is the understanding of how our brains work. Towards this goal, a landmark discovery by Dr. John O'Keefe
- revealed that information flowing into the brain is not processed independently, but understood by relationships between the stimuli. He observed
- that hippocampal neurons fired based on where the organism was in its environment. Dr. O'Keefe termed these neurons as _place cells_, and the location
- causing their firing as a _place field_. Similar phenomenons have been observed with other sensory inputs, forming the more general idea of a _receptive field_.
- A neuron's receptive field is the subset of the stimulus space that causes the neuron to fire. In Dr. O'Keefe's studies, the stimulus space would be the visual
- and physical characteristics of a maze and an example receptive field could be a specific corner. But these results beg the question:
+In the summer of 2015, I participated in the Pacific Undergraduate Research Experience led by Dr. Luis Garcia-Puente and Dr. Rebecca Garcia.
+Studying computational algebraic geometry, the program began with two weeks of focused study and ended with three weeks of group research on an
+applied problem. Myself, Ryan Kruse, Dane Miyata, and Ihmar Aldana were tasked with implementing an algorithm outlined in [The Neural Ring](http://arxiv.org/abs/1212.4201) by
+Dr. Carina Curto, Dr. Vladimir Itskov, Dr. Alan Veliz-Cuba, and Dr. Nora Youngs.
 
-## How does the brain structure receptive fields?
+In the _personal_ tab, there's a brief post on receptive fields that contains a brief background and motivation for this project. The question we're
+trying to answer is:
+
+## What properties of a stimulus space can be extracted from neural activity?
 --------------------------------------------------------------------------
 
-In my portfolio page, I've written a post on some incredible progress that Dr. Nora Youngs has made towards answering this question and some contributions that
-myself and others have made.
